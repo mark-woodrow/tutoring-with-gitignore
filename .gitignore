@@ -1,3 +1,9 @@
+# Netbeans specifics
+build/*
+dist/*
+nbproject/*
+# but it looks like we  should include project.xml and configurations.xml from this directory
+
 # Prerequisites
 *.d
 
